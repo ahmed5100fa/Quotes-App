@@ -1,0 +1,36 @@
+h1{
+    font-size: 5rem;
+    font-weight: 900 !important;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: #000;
+}
+
+p{
+    font-family: 'Times New Roman', Times, serif;
+}
+button {
+    width: 250px;
+    height: 80px;
+}
+
+.btn-primary {
+    --bs-btn-color: #fff;
+    --bs-btn-bg: blue !important;
+    --bs-btn-border-color: blue !important;
+    --bs-btn-hover-color: #fff;
+    --bs-btn-hover-bg: #008000 !important;
+    --bs-btn-hover-border-color: #008000 !important;
+    --bs-btn-focus-shadow-rgb: 49, 132, 253;
+    --bs-btn-active-color: #fff;
+    --bs-btn-active-bg: #008000 !important;
+    --bs-btn-active-border-color: #008000 !important;
+    --bs-btn-active-shadow: inset 0 3px 5px rgba(0, 0, 0, 0.125);
+    --bs-btn-disabled-color: #fff;
+    --bs-btn-disabled-bg: #0d6efd;
+    --bs-btn-disabled-border-color: #0d6efd;
+}
+
+
+h2{
+    font-family: 'Times New Roman', Times, serif;
+}
